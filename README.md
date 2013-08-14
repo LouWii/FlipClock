@@ -7,7 +7,7 @@ FlipClock is a nice JS and CSS animated... flipclock.
 Documentation
 -------------
 
-All documentation is available on [FlipClockjs.com](http://http://flipclockjs.com)
+All documentation is available on [FlipClockjs.com](http://flipclockjs.com)
 
 
 Advantages
@@ -27,14 +27,14 @@ Basic Example
 
 
     <html>
-    	<head>
-    		<link rel="stylesheet" href="/assets/css/flipclock.css">
-    	</head>
-      <body>
-    		<div class="your-clock"></div>
+        <head>
+    	    <link rel="stylesheet" href="/assets/css/flipclock.css">
+        </head>
+        <body>
+            <div class="your-clock"></div>
 		
-    		<script src="/assets/js/libs/jquery.js"></script>
-    		<script src="/assets/js/flipclock/libs/prefixfree.min.js"></script>
-    		<script src="/assets/js/flipclock/flipclock.min.js"></script>
-    	</body>
+            <script src="/assets/js/libs/jquery.js"></script>
+            <script src="/assets/js/flipclock/libs/prefixfree.min.js"></script>
+            <script src="/assets/js/flipclock/flipclock.min.js"></script>
+        </body>
     </html>
